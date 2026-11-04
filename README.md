@@ -33,8 +33,10 @@
 6.	Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 7.	Compile that file with C compiler and verify the output.
 
-# INPUT
+# INPUT:
+```
 (a+b*c)*$
+```
 # OUTPUT
 <img width="1472" height="795" alt="image" src="https://github.com/user-attachments/assets/eb2118e0-b6c8-486f-8f0d-e719f355d2dc" />
 
